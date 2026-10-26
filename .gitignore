@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+# your own console files, PeerPressure-owned
+kernel_patches.bin
+kernel_patches.bin.bak
